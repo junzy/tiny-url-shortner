@@ -1,5 +1,5 @@
 # tiny-url-shortner
-quick poc url shortner with express
+quick poc url shortner with express. Stores a hashmap in memory of hash to url.
 
 
 Running instructions
